@@ -5,4 +5,4 @@ implementing the Teamcenter PLM (Product Lifecycle Management) system for their 
 ## Project Structure
 This project will be structured with relevant topics listed as directories in the project heirarchy. For example, you 
 will see a directory with the title **LOV** for a deeper dive into *Lists of Values*, a directory titled **Item 
-Types** for *Item Types*, and so on and so forth. 
+Type** for *Item Type*, and so on and so forth. 
