@@ -4,3 +4,4 @@ Items are effectively a bucket that holds datasets that are relevant to the spec
 
 ![Item Type Example](images/Item_Type.png "Item Type Image") 
 
+The above example...
