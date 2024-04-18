@@ -6,3 +6,5 @@ implementing the Teamcenter PLM (Product Lifecycle Management) system for their 
 This project will be structured with relevant topics listed as directories in the project heirarchy. For example, you 
 will see a directory with the title **LOV** for a deeper dive into *Lists of Values*, a directory titled **Item 
 Type** for *Item Type*, and so on and so forth. 
+
+There will also be other topics listed that are not specific to developing a data model listed as markdown files in the root directory of this project (starting with **01**, **02**, **03**, etc.). These topics will be focusing in on how to manage the project of developing the data model. The purpose for mentioning these topics are to provide insights and takeaways from personal experience seeing the management of developing a data model. 
