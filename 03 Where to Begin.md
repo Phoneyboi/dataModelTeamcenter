@@ -14,7 +14,7 @@ Defining your processes will uncover the attributes you need to properly configu
 
 3) Change (oh boy, this is a doosie)
 
-    Change is going to be split up into multiple different processes. Change is a defining branch of engineering data management that brings out the true value of PLM systems. Change is also a point of pain for most organizations.
+    Change is going to be split up into multiple different processes. Change is a defining branch of engineering data management that brings out the true value of PLM systems. Change is also a point of pain for most organizations. More in depth discussion can be found in [Change Management](./Change Management/README.md) 
 
       a) PR (Problem Report)
 
