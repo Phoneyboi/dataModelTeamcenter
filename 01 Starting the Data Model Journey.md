@@ -16,4 +16,6 @@ There will be businesses who are starting from scratch, and businesses who will 
 
 3) **Diffusion of Responsibility**
 
-     Make sure you get **sign-offs** from the responsible parties for decisions made on data models. 
+     Make sure you get **sign-offs** from the responsible parties for decisions made on data models. More specifically, sign-offs should be required when documenting a specific process, LOV's, attributes, etc. This ensures accountability and leaves a trail of "Who did this?" and "Why did they decide to make this change?".
+
+   *Takeaway: Assign responsibility to the people who define specific components of the data model. Perform a regular follow up with the responsible individuals to ensure timely execution.*
