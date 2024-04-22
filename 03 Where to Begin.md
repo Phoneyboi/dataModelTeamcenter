@@ -2,7 +2,7 @@
 Lets go through the logic of where to begin and why (unless you genuinely know a better way). Below you will find two headings; Processes and Classification. In an ideal world, these two subjects will be tackled in parallel. The reason why these two subjects are so important is because if defined properly, your result will give you everything you need to know about Item Types, LOV's, Organization, Project, Change Management, Access Manager, etc. Your result will allow you to begin solutioning your Teamcenter environment to your business needs. 
 
 ## Processes
-Defining your processes will uncover the attributes you need to properly configure the PLM system. There are a few processes that are typically required in organizations which will be listed below: 
+There are a few processes that are typically required in organizations which will be listed below: 
 
 1) Release (Production Release, Final Release, Master Release, etc.
 
